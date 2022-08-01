@@ -1,0 +1,14 @@
+.body {
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+    font-size: 15px;
+}
+
+span {
+    color: #FB6D3A;
+}
+
+.container {
+    max-width: 1200px;
+    max-height: 1319px;
+}
